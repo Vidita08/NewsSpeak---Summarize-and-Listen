@@ -17,7 +17,7 @@ A web-based application that analyzes news articles about companies, performs se
 
 1. Clone the repository:
 ```bash
-2. git clone <repository-url>
+2. git clone https://github.com/Vidita08/NewsSpeak---Summarize-and-Listen.git
 3. cd <repository-name>
 4. Run Following commands :
    Python setup.py
