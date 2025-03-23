@@ -19,7 +19,9 @@ A web-based application that analyzes news articles about companies, performs se
 ```bash
 2. git clone https://github.com/Vidita08/NewsSpeak---Summarize-and-Listen.git
 3. cd <repository-name>
-4. Run Following commands :
+4. Search for https://newsapi.org/ on browser and then create API key. Paste API key in app.py at the place of [API-KET].
+5. Run Following commands :
+   pip install -r requirements.txt
    Python setup.py
    Streamlit run app.py ( It opens url http://localhost:8501 )
    Put company name in search box -> Analyze
