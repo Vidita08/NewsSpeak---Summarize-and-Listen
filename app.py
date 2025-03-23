@@ -9,7 +9,7 @@ import json
 from collections import Counter
 
 # Initialize API and Analyzer
-API_KEY = "9981d770f01a48679d80f7777dda9eee"
+API_KEY = "[API-KET]"
 news_api = NewsAPI(API_KEY)
 analyzer = NewsAnalyzer()
 
